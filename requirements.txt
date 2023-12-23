@@ -1,0 +1,6 @@
+numpy
+pandas
+cmasher
+matplotlib
+notebook
+jax[cpu]
